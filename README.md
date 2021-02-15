@@ -14,5 +14,5 @@ Invite to your discord with this [link](https://discord.com/oauth2/authorize?cli
 
 # Use
 *activity [Your Activity] [Your Schedule]
-> *activity Among_us 21h25\\\
+> *activity Among_us 21h25\
 > ![Imgur](https://i.imgur.com/Q9sk0Mb.png)
