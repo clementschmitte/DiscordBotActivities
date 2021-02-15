@@ -1,4 +1,5 @@
 const Discord = require('discord.js');
+require('dotenv').config()
 const cmdIndex = require('./src/cmd');
 const utils = require('./src/utils');
 
@@ -38,7 +39,7 @@ client.once('ready', () => {
 	});
 });
 
-client.login('ODA1ODE1NDE3MzQzNTc0MDU2.YBgYFg.pS53NbZJ6WlU5v30TA9Lf1v9xG0');
+client.login(process.env.CLIENT_ID);
 
 client.on('message', (message) => {
 	const prefix = '*';
