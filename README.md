@@ -10,7 +10,7 @@ Bot discord to create activities for friends
 > ```npm run start```
 
 # Invite
-Invite to your discord with this [link](https://discord.com/oauth2/authorize?client_id=805815417343574056&permissions=8&scope=bot)
+Invite to your discord with this [link](https://discord.com/api/oauth2/authorize?client_id=805815417343574056&permissions=0&scope=bot)
 
 # Use
 *activity [Your Activity] [Your Schedule]
